@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🧑‍🎓 I am a Ph.D. student at Shanghai Jiao Tong University, majoring in Computer Science.
+📖 My research interests include natural language processing and information retrieval.
+📧 You can learn more about me on my homepage:https://lux-1997.github.io/
+
 
 
 <!--
